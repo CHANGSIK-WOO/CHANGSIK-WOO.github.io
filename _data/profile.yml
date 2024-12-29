@@ -45,11 +45,11 @@ education:
 experience:
  - name: LG Display
    logo: /assets/images/badges/LG_LOGO.jpg
-   position: Senior Engineer of WOLED Inspection Process
+   position: <b>Senior Engineer</b> of WOLED Inspection Process
    date: Jul. 2016 - Present
 
 awards:
-- name: Selected as Degree Dispatcher of LG Display
+- name: Selected as <b>Degree Dispatcher</b> of LG Display
   date: 2024
-- name: Selected as Core Employee of LG Display
+- name: Selected as <b>Core Employee</b> of LG Display
   date: 2023
