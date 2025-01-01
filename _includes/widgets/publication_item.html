@@ -38,6 +38,10 @@
                     {% for link in item.links %}
                     {% if link[1].url %}
                     <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">{{ item.title }}</a>
+                    {% else %}
+                    <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
+                    {% endif %}
+                    {% endfor %}
                 </h5>
                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
                 <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }}&nbsp;&nbsp;&nbsp;<i>{{ item.pub_date }}</i> {{ item.pub_last }}</p>
