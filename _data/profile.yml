@@ -33,8 +33,7 @@ portrait_url: /assets/images/photos/Profile_picture.jpg
 education:
 - name: Korea University
   logo: /assets/images/badges/korea.gif
-  position: <p>Master Degree Course of AI</p>
-            <p>(Full-time)</p>
+  position: Master Degree Course of AI<br>(Full-time)
   date: Sep. 2025 - Aug. 2027 (Expected)
 
 - name: SungKyunKwan University
@@ -46,7 +45,7 @@ education:
 experience:
  - name: LG Display Co.,Ltd
    logo: /assets/images/badges/LG_LOGO.jpg
-   position: <b>Senior Engineer</b> of WOLED Manufacture Inspection Process
+   position: <b>Senior Engineer</b> of WOLED Manufacture<br>Inspection Process
    date: Jul. 2016 - Present
 
 awards:
