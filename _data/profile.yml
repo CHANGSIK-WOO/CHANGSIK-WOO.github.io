@@ -33,7 +33,8 @@ portrait_url: /assets/images/photos/Profile_picture.jpg
 education:
 - name: Korea University
   logo: /assets/images/badges/korea.gif
-  position: Master Degree Course of AI (Full-time)
+  position: <p>Master Degree Course of AI</p>
+            <p>(Full-time)</p>
   date: Sep. 2025 - Aug. 2027 (Expected)
 
 - name: SungKyunKwan University
