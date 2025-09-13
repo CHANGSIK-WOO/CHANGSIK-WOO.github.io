@@ -31,6 +31,12 @@ portrait_url: /assets/images/photos/Profile_picture.jpg
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: Korea University
+  logo: /assets/images/badges/skku_Emblem.jpg
+  position: in Master Degree Course of Artificial Intelligence
+  date: Sep. 2025 - Aug. 2027 (Expected)
+
+education:
 - name: SungKyunKwan University
   logo: /assets/images/badges/skku_Emblem.jpg
   position: B.S. in Electronic and Electric Engineering
